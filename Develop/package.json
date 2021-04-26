@@ -1,0 +1,19 @@
+{
+  "name": "opp-hw",
+  "version": "1.0.0",
+  "description": "team-generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "thai lee",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
