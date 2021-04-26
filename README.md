@@ -24,8 +24,8 @@ so that I have quick access to their emails and GitHub profiles
 - THEN I exit the application, and the HTML is generated
 
 ## How it Looks
-![alt text](img\Team.png)
-![alt text](img\anime.gif)
+[![My-Team.png](https://i.postimg.cc/xqDqCKfR/My-Team.png)](https://postimg.cc/0Kn9XKJM)
+[![Alt text](https://drive.google.com/file/d/1SL4mDOmKPkJ-uRTLzrTvgZlzm12pB2-Y/view)
 
 
 ## 
