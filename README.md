@@ -1,4 +1,10 @@
 # 10-OOP-HW
+## Table of Content
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Mock Up](#mock-up)
+* [License](#license)
+
 ## User Story
 - As a manager
 I want to generate a webpage that displays my team's basic info
@@ -23,10 +29,12 @@ so that I have quick access to their emails and GitHub profiles
 - WHEN I decide to finish building my team
 - THEN I exit the application, and the HTML is generated
 
-## How it Looks
+## Mock Up
 [![My-Team.png](https://i.postimg.cc/xqDqCKfR/My-Team.png)](https://postimg.cc/0Kn9XKJM)
-[![Alt text](https://drive.google.com/file/d/1SL4mDOmKPkJ-uRTLzrTvgZlzm12pB2-Y/view)
+[![Alt text](https://github.com/CoderLeE920/10-OOP-HW/blob/main/img/anime.gif)
 
 
-## 
-## Created by Thai Lee
+
+## License
+MIT
+2021 University of Denver BootCamp
